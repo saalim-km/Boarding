@@ -1,4 +1,4 @@
-# 🧠 Comprehensive Study Mindmap: JavaScript, React & Computer Science Fundamentals
+# 🧠 Comprehensive Study Mindmap: JavaScript, React & DSA Fundamentals
 
 ## 📚 Study Path Overview
 
